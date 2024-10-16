@@ -14,9 +14,6 @@ In addition to web development, I have experience with Power BI thanks to a cert
 - **Databases:** MySQL
 - **Tools:** Git, Docker, Power BI, VS Code
 
-## 📊 GitHub Stats
-![Iván's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
 ## 🏆 Achievements
 - 🥇 Certified in **Power BI with AI**
 - :memo: Taking an **Advanced Python** course
@@ -27,7 +24,7 @@ In addition to web development, I have experience with Power BI thanks to a cert
 - 🌱 **Node.js** - diving deeper into backend development
 - 💡 **Cybersecurity in Web Development** - enhancing my front-end security skills
 
-## ✍️ Blog
+## ✍️ Free Time
 I occasionally read about web development, cybersecurity, and data analytics to always stay up to date
 
 ## 📁 Featured Projects
