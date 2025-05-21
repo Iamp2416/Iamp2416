@@ -16,7 +16,7 @@ In addition to web development, I have experience with Power BI thanks to a cert
 
 ## 🏆 Achievements
 - 🥇 Certified in **Power BI with AI**
-- :memo: Taking an **Advanced Python** course
+- :memo: Certified in **Advanced Python** course
 - 🎓 Pursuing a Master's in **Cybersecurity**
 
 ## 🔍 Current Learning Goals
