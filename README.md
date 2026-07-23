@@ -1,33 +1,32 @@
-## 👋 Hi, I'm Iván!
+van Morales
+About Me
 
-## 🚀 About Me
-I am an intelligent systems engineer and passionate web developer with a strong foundation in data analytics and a focus on building optimized and secure applications. I specialize in working with cutting-edge technologies such as Vue.js and Laravel or Angular and Flask, while continuously expanding my skills in the cybersecurity field with an ongoing master's degree.
+Systems Engineer, Master's in Cybersecurity, and Full Stack Developer with almost 4 years of experience building robust and secure web applications. My work is primarily focused on frontend development, with solid backend expertise to deliver complete end-to-end solutions.
 
-In addition to web development, I have experience with Power BI thanks to a certification, leveraging its capabilities for data visualization and analysis. I am currently pursuing a Python certification, which will add to my diverse technical skillset. My goal is to develop solutions that are innovative and efficient, contributing to the ever-evolving world of technology.
+I combine software engineering with a security-driven perspective on web development, aiming to build products that are not only functional but also resilient against current threats.
 
-- 💼 LinkedIn: www.linkedin.com/in/ivanmorales24
-- 📧 Contact: iamp12990@gmail.com
+LinkedIn: https://www.linkedin.com/in/ivanmorales24 Contact: iamp12990@gmail.com
 
-## 🛠️ Tech Stack
-- **Languages:** JavaScript, PHP, HTML, CSS, TypeScript, Python
-- **Frameworks:** Vue.js, Laravel, Angular
-- **Databases:** MySQL, MariaDB, SQL Server
-- **Tools:** Git, Power BI, VS Code
+Tech Stack
 
-## 🏆 Achievements
-- 🥇 Certified in **Power BI with AI**
-- :memo: Certified in **Advanced Python** course
-- 🎓 Pursuing a Master's in **Cybersecurity**
+Frontend Angular, Vue.js, TypeScript, JavaScript, HTML5, CSS3
 
-## 🔍 Current Learning Goals
-- 🌱 **Node.js** - diving deeper into backend development
-- 💡 **Cybersecurity in Web Development** - enhancing my front-end security skills
-- 🚀 Angular 19 - mastering modern frontend development with the latest features
-- ☁ Azure - exploring cloud computing and DevOps for scalable applications
+Backend Laravel, PHP, Python (Flask), Node.js
 
-## ✍️ Free Time
-I occasionally read about web development, cybersecurity, and artificial intelligence to stay informed and up-to-date.
+Databases SQL Server, MariaDB, MySQL
 
+Tools and Others Git, Power BI, VS Code, Docker
 
+Education and Certifications
+Master's Degree in Cybersecurity
+Bachelor's Degree in Systems Engineering
+Power BI with AI Certification
+Advanced Python Certification
+Currently
+Building full stack solutions focused on security, scalability, and sound architecture practices.
+Deepening expertise in Angular 19 and modern frontend patterns.
+Exploring Azure for cloud deployment and architecture.
+Applying cybersecurity principles across the web development lifecycle (secure coding, API hardening, robust authentication).
+Beyond Code
 
-
+I keep up with trends in web development, cybersecurity, and artificial intelligence, and enjoy applying that knowledge in both professional and personal projects.
